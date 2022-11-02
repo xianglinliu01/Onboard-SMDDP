@@ -1,0 +1,3 @@
+/Users/xianliuz/Projects/Onboard-SMDDP/CMake/build/CMakeFiles/hello_world.dir
+/Users/xianliuz/Projects/Onboard-SMDDP/CMake/build/CMakeFiles/edit_cache.dir
+/Users/xianliuz/Projects/Onboard-SMDDP/CMake/build/CMakeFiles/rebuild_cache.dir
