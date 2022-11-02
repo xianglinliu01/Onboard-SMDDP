@@ -1,0 +1,3 @@
+/home/ec2-user/Xianglin/Onboard-SMDDP/02_MPI/build/CMakeFiles/hello.dir
+/home/ec2-user/Xianglin/Onboard-SMDDP/02_MPI/build/CMakeFiles/edit_cache.dir
+/home/ec2-user/Xianglin/Onboard-SMDDP/02_MPI/build/CMakeFiles/rebuild_cache.dir

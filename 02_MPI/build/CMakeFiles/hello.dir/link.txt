@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,-rpath -Wl,/opt/amazon/openmpi/lib64 -Wl,--enable-new-dtags -pthread -rdynamic CMakeFiles/hello.dir/mpi_hello_world.cpp.o -o hello  -Wl,-rpath,/opt/amazon/openmpi/lib64 /opt/amazon/openmpi/lib64/libmpi.so 
